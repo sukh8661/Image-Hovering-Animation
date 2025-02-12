@@ -58,7 +58,7 @@ Contributions are welcome! If you'd like to improve this project.
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out:
 
-- **GitHub:** ([sukh8661](https://github.com/sukh8661/))
-- **LinkedIn:** ([Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/))
+- **GitHub:** [sukh8661](https://github.com/sukh8661/)
+- **LinkedIn:** [Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
 Made with ❤️ by **Sukhpreet Singh**
